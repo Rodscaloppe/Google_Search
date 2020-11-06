@@ -1,0 +1,30 @@
+15:48:38.749 INFO [ActiveSessionFactory.apply] - Capabilities are: {
+  "browserName": "chrome",
+  "goog:chromeOptions": {
+    "prefs": {
+      "profile": {
+        "content_settings": {
+          "exceptions": {
+            "automatic_downloads": {
+              "*": {
+                "setting": 1
+              }
+            }
+          }
+        }
+      },
+      "download": {
+        "default_directory": "C:\\Users\\SriSangeethG\\Documents\\UI automation\\Google Search\\downloads"
+      }
+    }
+  }
+}
+15:48:38.749 INFO [ActiveSessionFactory.lambda$apply$11] - Matched factory org.openqa.selenium.grid.session.remote.ServicedSession$Factory (provider: org.openqa.selenium.chrome.ChromeDriverService)
+Starting ChromeDriver 85.0.4183.87 (cd6713ebf92fa1cacc0f1a598df280093af0c5d7-refs/branch-heads/4183@{#1689}) on port 2394
+Only local connections are allowed.
+Please see https://chromedriver.chromium.org/security-considerations for suggestions on keeping ChromeDriver safe.
+ChromeDriver was started successfully.
+[1604657920.472][WARNING]: This version of ChromeDriver has not been tested with Chrome version 86.
+15:48:42.559 INFO [ProtocolHandshake.createSession] - Detected dialect: W3C
+15:48:42.584 INFO [RemoteSession$Factory.lambda$performHandshake$0] - Started new session 525e84e789c311caba91a715e836cd20 (org.openqa.selenium.chrome.ChromeDriverService)
+15:49:09.068 INFO [ActiveSessions$1.onStop] - Removing session 525e84e789c311caba91a715e836cd20 (org.openqa.selenium.chrome.ChromeDriverService)

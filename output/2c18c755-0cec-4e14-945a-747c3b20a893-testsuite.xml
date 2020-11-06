@@ -1,0 +1,53 @@
+<?xml version='1.0'?>
+<ns2:test-suite xmlns:ns2='urn:model.allure.qatools.yandex.ru' start='1604657915335' stop='1604657949065'>
+    <name>Test Cases For Stories Given:</name>
+    <title>Test Cases For Stories Given:</title>
+    <test-cases>
+        <test-case start='1604657918673' status='passed' stop='1604657948912'>
+            <name>testing basics learned</name>
+            <title>testing basics learned</title>
+            <labels/>
+            <parameters/>
+            <steps>
+                <step start='1604657924846' status='passed' stop='1604657948912'>
+                    <name>loginpage: main </name>
+                    <title>loginpage: main </title>
+                    <attachments/>
+                    <steps>
+                        <step start='1604657924846' status='passed' stop='1604657934873'>
+                            <name>I wait 10</name>
+                            <title>I wait 10</title>
+                            <attachments/>
+                            <steps/>
+                        </step>
+                        <step start='1604657934874' status='passed' stop='1604657936582'>
+                            <name>I am on page "/"</name>
+                            <title>I am on page "/"</title>
+                            <attachments/>
+                            <steps/>
+                        </step>
+                        <step start='1604657936582' status='passed' stop='1604657936814'>
+                            <name>I fill field "~Search", "Test"</name>
+                            <title>I fill field "~Search", "Test"</title>
+                            <attachments/>
+                            <steps/>
+                        </step>
+                        <step start='1604657936816' status='passed' stop='1604657938910'>
+                            <name>I click "Google Search"</name>
+                            <title>I click "Google Search"</title>
+                            <attachments/>
+                            <steps/>
+                        </step>
+                        <step start='1604657938910' status='passed' stop='1604657948912'>
+                            <name>I wait 10</name>
+                            <title>I wait 10</title>
+                            <attachments/>
+                            <steps/>
+                        </step>
+                    </steps>
+                </step>
+            </steps>
+            <attachments/>
+        </test-case>
+    </test-cases>
+</ns2:test-suite>
