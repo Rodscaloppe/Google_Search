@@ -13,7 +13,7 @@ exports.config = {
     WebDriver: {
       windowSize: "maximize",
       url: 'https://www.google.com/',
-      browser: 'chromium',
+      browser: 'firefox',
       desiredCapabilities: {
         chromeOptions: {
           prefs: {
