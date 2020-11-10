@@ -52,7 +52,6 @@ exports.config = {
     },
     allure: {
       enabled: true,
-      outputDir: OUTPUT_DIR,
     },
     retryFailedStep: {
       enabled: true
